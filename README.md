@@ -8,8 +8,10 @@ to and for next character from we will check from the stored transition state wh
 transition next,Similarly we will do for all characters until the is not over and last we will
 check if the last state is final state or not if it is the final state then string will be accepted
 otherwise rejected.
+
 ● In the dfa to accept strings of As and Bs having even A and odd B there are 4 states and
 each and every state has 2 choices and according to the transition the dfa proceeds.
+
 ● In the dfa to accept decimal strings divisible by 3 there are 4 states and each and every
 state has 4 choices and according to the transition the dfa proceeds.
 
